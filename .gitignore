@@ -1,5 +1,8 @@
 meCh
 
+# Temporary/local files
+*.swp
+
 # Object files
 *.o
 *.ko
